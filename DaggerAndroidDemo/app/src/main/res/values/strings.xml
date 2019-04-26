@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaggerAndroidDemo</string>
+
+    <string name="injection_string_global">Global string was injected</string>
+    <string name="injection_string_main">Main was injected</string>
+    <string name="injection_string_second">Second was injected</string>
+
+</resources>
